@@ -1,10 +1,14 @@
 ExpNo 1 :Developing AI Agent with
  PEAS Description
+ 
  Name : ETTA SUPRAJA
+ 
  Register Number : 212223220022
+ 
  AIM:
  To find the PEAS description for the given AI problem and develop an AI
  agent.
+ 
  Theory
  Medicine prescribing agent:
  Such this agent prescribes medicine for fever (greater than 98.5 degrees)
@@ -17,6 +21,7 @@ ExpNo 1 :Developing AI Agent with
  again it has to check another room so that the movement causes the agent
  to reduce its performance. Hence, agents prescribe medicine to unhealthy.
  PEAS DESCRIPTION:
+ 
  Agent
  Type
  Medicine
@@ -52,7 +57,7 @@ Prescribe medicine if the patient in a random has a fever.
  STEP 4:Implementing the AI agent:
  STEP 5:
  Program :
-
+```
  import random
  class Thing:
     """
@@ -235,6 +240,7 @@ Prescribe medicine if the patient in a random has a fever.
     environment.run(steps=10)
 print(environment.status)
  print(agent.performance)
+```
  Output :
  ![WhatsApp Image 2024-11-17 at 17 38 38_bb468b24](https://github.com/user-attachments/assets/087f2478-2daa-4b04-b246-ca957416ee64)
 
