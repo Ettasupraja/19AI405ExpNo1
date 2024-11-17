@@ -6,6 +6,7 @@ ExpNo 1 :Developing AI Agent with
  Register Number : 212223220022
  
  AIM:
+ 
  To find the PEAS description for the given AI problem and develop an AI
  agent.
  
@@ -20,6 +21,7 @@ ExpNo 1 :Developing AI Agent with
  by incrementing performance and each time after treating in one room
  again it has to check another room so that the movement causes the agent
  to reduce its performance. Hence, agents prescribe medicine to unhealthy.
+ 
  PEAS DESCRIPTION:
  
  Agent
@@ -27,21 +29,30 @@ ExpNo 1 :Developing AI Agent with
  Medicine
  prescribing
  agent
+ 
  Performance
+ 
  Treating
  unhealthy,
  agent
  movement
+ 
  Environment
+ 
  Rooms,
  Patient
+ 
  Actuators
+ 
  Medicine,
  Treatment
+ 
  Sensors
+ 
  Location,
  Temperatur
  of patient
+ 
  DESIGN STEPS
  STEP 1:Identifying the input:
  Temperature from patients, Location.
@@ -56,6 +67,7 @@ Prescribe medicine if the patient in a random has a fever.
  STEP 3:Developing the PEAS description:
  STEP 4:Implementing the AI agent:
  STEP 5:
+ 
  Program :
 ```
  import random
