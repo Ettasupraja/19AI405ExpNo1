@@ -2,7 +2,6 @@ ExpNo 1 :Developing AI Agent with
  PEAS Description
  
  Name : ETTA SUPRAJA
- 
  Register Number : 212223220022
  
  AIM:
@@ -24,8 +23,7 @@ ExpNo 1 :Developing AI Agent with
  
  PEAS DESCRIPTION:
  
- Agent
- Type
+ Agent Type     
  Medicine
  prescribing
  agent
