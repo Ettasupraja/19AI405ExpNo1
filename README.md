@@ -252,6 +252,8 @@ print(environment.status)
  print(agent.performance)
 ```
  Output :
+
+ 
  ![WhatsApp Image 2024-11-17 at 17 38 38_bb468b24](https://github.com/user-attachments/assets/087f2478-2daa-4b04-b246-ca957416ee64)
 
  Result :
